@@ -1,6 +1,6 @@
 # Page Number ExpressionEngine Plugin
 
-An ExpressionEngine plugin to determine the page number of paginated entries for ExpressionEngine 2.
+An ExpressionEngine plugin to determine the page number of paginated entries for ExpressionEngine 2+.
 
 Usage example:
 		
